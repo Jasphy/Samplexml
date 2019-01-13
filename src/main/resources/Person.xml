@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persons>
+	<Person>
+		<Name>Sachin Tendulkar</Name>
+		<DOB>1973-04-24</DOB>
+		<Gender>Male</Gender>
+		<MobileNo>9887845</MobileNo>
+		<Email>Sachin.tendulkar@gmail.com</Email>
+		<Country>India</Country>
+		<State>Maharashtra</State>
+		<Pincode>522289</Pincode>
+		<Photo>E:\\pictures\\sachin.jpg</Photo>
+	</Person>
+	<Person>
+		<Name>Rahul Sharad Dravid</Name>
+		<DOB>1973-01-11</DOB>
+		<Gender>Male</Gender>
+		<MobileNo>9554781</MobileNo>
+		<Email>Rahul.Dravid@gmail.com</Email>
+		<Country>India</Country>
+		<State>Karnataka</State>
+		<Pincode>525896</Pincode>
+		<Photo>E:\\pictures\\rahul.jpg</Photo>
+	</Person>
+	
+	</Persons>
+	
+	
